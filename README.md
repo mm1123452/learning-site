@@ -1,4 +1,4 @@
-# Project 2
+# Learning site
 
 ## Description
 Single Page Website created using HTML and CSS.
