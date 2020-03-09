@@ -1,0 +1,10 @@
+.cards__item{
+ display:flex;
+ flex-direction:column;
+ margin:60px 100px 0 0;
+ flex-basis:24%;
+}
+
+.cards__item:nth-child(3n){
+  margin-right:0;
+ }

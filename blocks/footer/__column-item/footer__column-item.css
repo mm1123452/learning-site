@@ -1,0 +1,9 @@
+.footer__column-item {
+  text-decoration: none;
+  color:#f2f2f2;
+  transition: color .4s linear;
+}
+
+.footer__column-item:hover {
+  color: rgba(242, 242, 242, .5)
+}
